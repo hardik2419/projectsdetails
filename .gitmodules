@@ -1,0 +1,3 @@
+[submodule "wide-linked"]
+	path = wide-linked
+	url = https://techtic_bucket@bitbucket.org/techtic_bucket/wide-linked.git
